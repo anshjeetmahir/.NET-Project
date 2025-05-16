@@ -1,0 +1,869 @@
+[2025-05-13 14:41:38 INF] Starting web host
+[2025-05-13 14:42:17 INF] Starting web host
+[2025-05-13 14:53:06 INF] Login attempt for user: Doctor1
+[2025-05-13 14:53:06 INF] Login attempt for username: Doctor1
+[2025-05-13 14:53:06 INF] Fetching user with username: Doctor1
+[2025-05-13 14:53:08 INF] User with username: Doctor1 found.
+[2025-05-13 14:53:08 INF] User Doctor1 successfully authenticated.
+[2025-05-13 14:53:08 INF] Fetching roles for user 3.
+[2025-05-13 14:53:08 INF] Found 2 roles for user 3.
+[2025-05-13 14:53:08 INF] Token created successfully for user Doctor1. Expires at "2025-05-13T09:53:08.3892417Z"
+[2025-05-13 14:53:08 INF] Login successful for user: Doctor1
+[2025-05-13 15:03:42 INF] Fetching all appointments...
+[2025-05-13 15:03:42 INF] Retrieving all appointments from repository...
+[2025-05-13 15:03:42 INF] Fetching all appointments...
+[2025-05-13 15:03:42 WRN] No appointments found.
+[2025-05-13 15:03:42 INF] Retrieved 0 appointments.
+[2025-05-13 15:03:42 INF] Appointments retrieved: 0
+[2025-05-13 15:04:15 INF] Starting web host
+[2025-05-13 15:04:53 INF] Login attempt for user: Doctor1
+[2025-05-13 15:04:53 INF] Login attempt for username: Doctor1
+[2025-05-13 15:04:53 INF] Fetching user with username: Doctor1
+[2025-05-13 15:04:54 INF] User with username: Doctor1 found.
+[2025-05-13 15:04:54 INF] User Doctor1 successfully authenticated.
+[2025-05-13 15:04:54 INF] Fetching roles for user 3.
+[2025-05-13 15:04:54 INF] Found 2 roles for user 3.
+[2025-05-13 15:04:54 INF] Token created successfully for user Doctor1. Expires at "2025-05-13T10:04:54.4010180Z"
+[2025-05-13 15:04:54 INF] Login successful for user: Doctor1
+[2025-05-13 15:08:45 INF] Login attempt for user: Patient1
+[2025-05-13 15:08:45 INF] Login attempt for username: Patient1
+[2025-05-13 15:08:45 INF] Fetching user with username: Patient1
+[2025-05-13 15:08:45 INF] User with username: Patient1 found.
+[2025-05-13 15:08:45 INF] User Patient1 successfully authenticated.
+[2025-05-13 15:08:45 INF] Fetching roles for user 7.
+[2025-05-13 15:08:45 INF] Found 1 roles for user 7.
+[2025-05-13 15:08:45 INF] Token created successfully for user Patient1. Expires at "2025-05-13T10:08:45.5285786Z"
+[2025-05-13 15:08:45 INF] Login successful for user: Patient1
+[2025-05-13 15:08:45 INF] Fetching all patients...
+[2025-05-13 15:08:45 INF] Fetching all patients
+[2025-05-13 15:08:45 INF] Fetching all patients from the database.
+[2025-05-13 15:08:45 INF] Fetched 1 patients from the database.
+[2025-05-13 15:08:45 INF] Fetched 1 patients
+[2025-05-13 15:08:45 INF] Patients retrieved: 1
+[2025-05-13 15:08:55 INF] Fetching all appointments...
+[2025-05-13 15:08:55 INF] Retrieving all appointments from repository...
+[2025-05-13 15:08:55 INF] Fetching all appointments...
+[2025-05-13 15:08:55 WRN] No appointments found.
+[2025-05-13 15:08:55 INF] Retrieved 0 appointments.
+[2025-05-13 15:08:55 INF] Appointments retrieved: 0
+[2025-05-13 15:08:57 INF] Fetching all doctors...
+[2025-05-13 15:08:57 INF] Fetching all doctors...
+[2025-05-13 15:08:57 INF] Fetching all doctors from the database.
+[2025-05-13 15:08:57 INF] Fetched 1 doctors.
+[2025-05-13 15:08:57 INF] 1 doctors retrieved.
+[2025-05-13 15:08:57 INF] Doctors retrieved: 1
+[2025-05-13 15:09:04 INF] Fetching all patients...
+[2025-05-13 15:09:04 INF] Fetching all patients
+[2025-05-13 15:09:04 INF] Fetching all patients from the database.
+[2025-05-13 15:09:04 INF] Fetched 1 patients from the database.
+[2025-05-13 15:09:04 INF] Fetched 1 patients
+[2025-05-13 15:09:04 INF] Patients retrieved: 1
+[2025-05-13 15:13:05 INF] Starting web host
+[2025-05-13 15:13:26 INF] Login attempt for user: Patient1
+[2025-05-13 15:13:26 INF] Login attempt for username: Patient1
+[2025-05-13 15:13:26 INF] Fetching user with username: Patient1
+[2025-05-13 15:13:27 INF] User with username: Patient1 found.
+[2025-05-13 15:13:27 INF] User Patient1 successfully authenticated.
+[2025-05-13 15:13:27 INF] Fetching roles for user 7.
+[2025-05-13 15:13:27 INF] Found 1 roles for user 7.
+[2025-05-13 15:13:27 INF] Token created successfully for user Patient1. Expires at "2025-05-13T10:13:27.4477638Z"
+[2025-05-13 15:13:27 INF] Login successful for user: Patient1
+[2025-05-13 15:13:33 INF] Fetching all appointments...
+[2025-05-13 15:13:33 INF] Retrieving all appointments from repository...
+[2025-05-13 15:13:33 INF] Fetching all appointments...
+[2025-05-13 15:13:33 WRN] No appointments found.
+[2025-05-13 15:13:33 INF] Retrieved 0 appointments.
+[2025-05-13 15:13:33 INF] Appointments retrieved: 0
+[2025-05-13 15:13:58 INF] Login attempt for user: Doctor1
+[2025-05-13 15:13:58 INF] Login attempt for username: Doctor1
+[2025-05-13 15:13:58 INF] Fetching user with username: Doctor1
+[2025-05-13 15:13:58 INF] User with username: Doctor1 found.
+[2025-05-13 15:13:58 INF] User Doctor1 successfully authenticated.
+[2025-05-13 15:13:58 INF] Fetching roles for user 3.
+[2025-05-13 15:13:58 INF] Found 2 roles for user 3.
+[2025-05-13 15:13:58 INF] Token created successfully for user Doctor1. Expires at "2025-05-13T10:13:58.6567601Z"
+[2025-05-13 15:13:58 INF] Login successful for user: Doctor1
+[2025-05-13 15:14:43 INF] Login attempt for user: Doctor1
+[2025-05-13 15:14:43 INF] Login attempt for username: Doctor1
+[2025-05-13 15:14:43 INF] Fetching user with username: Doctor1
+[2025-05-13 15:14:43 INF] User with username: Doctor1 found.
+[2025-05-13 15:14:43 INF] User Doctor1 successfully authenticated.
+[2025-05-13 15:14:43 INF] Fetching roles for user 3.
+[2025-05-13 15:14:43 INF] Found 2 roles for user 3.
+[2025-05-13 15:14:43 INF] Token created successfully for user Doctor1. Expires at "2025-05-13T10:14:43.4298125Z"
+[2025-05-13 15:14:43 INF] Login successful for user: Doctor1
+[2025-05-13 15:16:31 INF] Login attempt for user: Doctor1
+[2025-05-13 15:16:31 INF] Login attempt for username: Doctor1
+[2025-05-13 15:16:31 INF] Fetching user with username: Doctor1
+[2025-05-13 15:16:31 INF] User with username: Doctor1 found.
+[2025-05-13 15:16:31 INF] User Doctor1 successfully authenticated.
+[2025-05-13 15:16:31 INF] Fetching roles for user 3.
+[2025-05-13 15:16:31 INF] Found 2 roles for user 3.
+[2025-05-13 15:16:31 INF] Token created successfully for user Doctor1. Expires at "2025-05-13T10:16:31.6747779Z"
+[2025-05-13 15:16:31 INF] Login successful for user: Doctor1
+[2025-05-13 15:25:35 INF] Login attempt for user: Doctor1
+[2025-05-13 15:25:35 INF] Login attempt for username: Doctor1
+[2025-05-13 15:25:35 INF] Fetching user with username: Doctor1
+[2025-05-13 15:25:35 INF] User with username: Doctor1 found.
+[2025-05-13 15:25:35 INF] User Doctor1 successfully authenticated.
+[2025-05-13 15:25:35 INF] Fetching roles for user 3.
+[2025-05-13 15:25:35 INF] Found 2 roles for user 3.
+[2025-05-13 15:25:35 INF] Token created successfully for user Doctor1. Expires at "2025-05-13T10:25:35.9488490Z"
+[2025-05-13 15:25:35 INF] Login successful for user: Doctor1
+[2025-05-13 15:28:12 INF] Login attempt for user: Doctor1
+[2025-05-13 15:28:12 INF] Login attempt for username: Doctor1
+[2025-05-13 15:28:12 INF] Fetching user with username: Doctor1
+[2025-05-13 15:28:12 INF] User with username: Doctor1 found.
+[2025-05-13 15:28:12 INF] User Doctor1 successfully authenticated.
+[2025-05-13 15:28:12 INF] Fetching roles for user 3.
+[2025-05-13 15:28:12 INF] Found 2 roles for user 3.
+[2025-05-13 15:28:12 INF] Token created successfully for user Doctor1. Expires at "2025-05-13T10:28:12.4706706Z"
+[2025-05-13 15:28:12 INF] Login successful for user: Doctor1
+[2025-05-13 15:33:57 INF] Login attempt for user: Doctor1
+[2025-05-13 15:33:57 INF] Login attempt for username: Doctor1
+[2025-05-13 15:33:57 INF] Fetching user with username: Doctor1
+[2025-05-13 15:33:57 INF] User with username: Doctor1 found.
+[2025-05-13 15:33:57 INF] User Doctor1 successfully authenticated.
+[2025-05-13 15:33:57 INF] Fetching roles for user 3.
+[2025-05-13 15:33:57 INF] Found 2 roles for user 3.
+[2025-05-13 15:33:57 INF] Token created successfully for user Doctor1. Expires at "2025-05-13T10:33:57.5699641Z"
+[2025-05-13 15:33:57 INF] Login successful for user: Doctor1
+[2025-05-13 15:34:00 INF] Fetching all doctors...
+[2025-05-13 15:34:00 INF] Fetching all doctors...
+[2025-05-13 15:34:00 INF] Fetching all doctors from the database.
+[2025-05-13 15:34:00 INF] Fetched 1 doctors.
+[2025-05-13 15:34:00 INF] 1 doctors retrieved.
+[2025-05-13 15:34:00 INF] Doctors retrieved: 1
+[2025-05-13 15:44:16 INF] Login attempt for user: Doctor1
+[2025-05-13 15:44:16 INF] Login attempt for username: Doctor1
+[2025-05-13 15:44:16 INF] Fetching user with username: Doctor1
+[2025-05-13 15:44:17 INF] User with username: Doctor1 found.
+[2025-05-13 15:44:17 INF] User Doctor1 successfully authenticated.
+[2025-05-13 15:44:17 INF] Fetching roles for user 3.
+[2025-05-13 15:44:17 INF] Found 2 roles for user 3.
+[2025-05-13 15:44:17 INF] Token created successfully for user Doctor1. Expires at "2025-05-13T10:44:17.0549952Z"
+[2025-05-13 15:44:17 INF] Login successful for user: Doctor1
+[2025-05-13 15:44:20 INF] Fetching all doctors...
+[2025-05-13 15:44:20 INF] Fetching all doctors...
+[2025-05-13 15:44:20 INF] Fetching all doctors from the database.
+[2025-05-13 15:44:20 INF] Fetched 1 doctors.
+[2025-05-13 15:44:20 INF] 1 doctors retrieved.
+[2025-05-13 15:44:20 INF] Doctors retrieved: 1
+[2025-05-13 15:44:24 INF] Fetching all appointments...
+[2025-05-13 15:44:24 INF] Retrieving all appointments from repository...
+[2025-05-13 15:44:24 INF] Fetching all appointments...
+[2025-05-13 15:44:24 WRN] No appointments found.
+[2025-05-13 15:44:24 INF] Retrieved 0 appointments.
+[2025-05-13 15:44:24 INF] Appointments retrieved: 0
+[2025-05-13 15:44:40 INF] Login attempt for user: Patient1
+[2025-05-13 15:44:40 INF] Login attempt for username: Patient1
+[2025-05-13 15:44:40 INF] Fetching user with username: Patient1
+[2025-05-13 15:44:40 INF] User with username: Patient1 found.
+[2025-05-13 15:44:40 INF] User Patient1 successfully authenticated.
+[2025-05-13 15:44:40 INF] Fetching roles for user 7.
+[2025-05-13 15:44:40 INF] Found 1 roles for user 7.
+[2025-05-13 15:44:40 INF] Token created successfully for user Patient1. Expires at "2025-05-13T10:44:40.6313808Z"
+[2025-05-13 15:44:40 INF] Login successful for user: Patient1
+[2025-05-13 15:44:40 INF] Fetching all patients...
+[2025-05-13 15:44:40 INF] Fetching all patients
+[2025-05-13 15:44:40 INF] Fetching all patients from the database.
+[2025-05-13 15:44:40 INF] Fetched 1 patients from the database.
+[2025-05-13 15:44:40 INF] Fetched 1 patients
+[2025-05-13 15:44:40 INF] Patients retrieved: 1
+[2025-05-13 15:44:56 INF] Login attempt for user: Admin1
+[2025-05-13 15:44:56 INF] Login attempt for username: Admin1
+[2025-05-13 15:44:56 INF] Fetching user with username: Admin1
+[2025-05-13 15:44:56 INF] User with username: Admin1 found.
+[2025-05-13 15:44:56 INF] User Admin1 successfully authenticated.
+[2025-05-13 15:44:56 INF] Fetching roles for user 1.
+[2025-05-13 15:44:56 INF] Found 1 roles for user 1.
+[2025-05-13 15:44:56 INF] Token created successfully for user Admin1. Expires at "2025-05-13T10:44:56.0806443Z"
+[2025-05-13 15:44:56 INF] Login successful for user: Admin1
+[2025-05-13 15:44:56 INF] Fetching all patients...
+[2025-05-13 15:44:56 INF] Fetching all doctors...
+[2025-05-13 15:44:56 INF] Fetching all patients
+[2025-05-13 15:44:56 INF] Fetching all doctors...
+[2025-05-13 15:44:56 INF] Fetching all appointments...
+[2025-05-13 15:44:56 INF] Fetching all patients from the database.
+[2025-05-13 15:44:56 INF] Fetching all doctors from the database.
+[2025-05-13 15:44:56 INF] Retrieving all appointments from repository...
+[2025-05-13 15:44:56 INF] Fetching all appointments...
+[2025-05-13 15:44:56 INF] Fetched 1 doctors.
+[2025-05-13 15:44:56 INF] 1 doctors retrieved.
+[2025-05-13 15:44:56 INF] Doctors retrieved: 1
+[2025-05-13 15:44:56 INF] Fetched 1 patients from the database.
+[2025-05-13 15:44:56 INF] Fetched 1 patients
+[2025-05-13 15:44:56 INF] Patients retrieved: 1
+[2025-05-13 15:44:56 WRN] No appointments found.
+[2025-05-13 15:44:56 INF] Retrieved 0 appointments.
+[2025-05-13 15:44:56 INF] Appointments retrieved: 0
+[2025-05-13 15:45:00 INF] Fetching all patients...
+[2025-05-13 15:45:00 INF] Fetching all patients
+[2025-05-13 15:45:00 INF] Fetching all patients from the database.
+[2025-05-13 15:45:00 INF] Fetched 1 patients from the database.
+[2025-05-13 15:45:00 INF] Fetched 1 patients
+[2025-05-13 15:45:00 INF] Patients retrieved: 1
+[2025-05-13 15:45:05 INF] Fetching patient by ID: 1
+[2025-05-13 15:45:05 INF] Fetching patient with ID 1
+[2025-05-13 15:45:05 INF] Fetching patient with ID 1 from the database.
+[2025-05-13 15:45:05 INF] Patient with ID 1 found.
+[2025-05-13 15:45:05 INF] Found patient with ID 1
+[2025-05-13 15:45:24 INF] Fetching all doctors...
+[2025-05-13 15:45:24 INF] Fetching all doctors...
+[2025-05-13 15:45:24 INF] Fetching all doctors from the database.
+[2025-05-13 15:45:24 INF] Fetched 1 doctors.
+[2025-05-13 15:45:24 INF] 1 doctors retrieved.
+[2025-05-13 15:45:24 INF] Doctors retrieved: 1
+[2025-05-13 15:45:27 INF] Fetching doctor by ID: 2
+[2025-05-13 15:45:27 INF] Fetching doctor with ID 2...
+[2025-05-13 15:45:28 INF] Fetching doctor with ID: 2
+[2025-05-13 15:45:28 INF] Doctor with ID 2 found.
+[2025-05-13 15:45:35 INF] Fetching all appointments...
+[2025-05-13 15:45:35 INF] Retrieving all appointments from repository...
+[2025-05-13 15:45:35 INF] Fetching all appointments...
+[2025-05-13 15:45:35 WRN] No appointments found.
+[2025-05-13 15:45:35 INF] Retrieved 0 appointments.
+[2025-05-13 15:45:35 INF] Appointments retrieved: 0
+[2025-05-13 16:14:07 INF] Login attempt for user: Doctor1
+[2025-05-13 16:14:07 INF] Login attempt for username: Doctor1
+[2025-05-13 16:14:07 INF] Fetching user with username: Doctor1
+[2025-05-13 16:14:07 INF] User with username: Doctor1 found.
+[2025-05-13 16:14:07 INF] User Doctor1 successfully authenticated.
+[2025-05-13 16:14:07 INF] Fetching roles for user 3.
+[2025-05-13 16:14:07 INF] Found 2 roles for user 3.
+[2025-05-13 16:14:07 INF] Token created successfully for user Doctor1. Expires at "2025-05-13T11:14:07.6576670Z"
+[2025-05-13 16:14:07 INF] Login successful for user: Doctor1
+[2025-05-13 16:14:10 INF] Fetching all appointments...
+[2025-05-13 16:14:10 INF] Fetching all patients...
+[2025-05-13 16:14:10 INF] Fetching all doctors...
+[2025-05-13 16:14:10 INF] Retrieving all appointments from repository...
+[2025-05-13 16:14:10 INF] Fetching all patients
+[2025-05-13 16:14:10 INF] Fetching all doctors...
+[2025-05-13 16:14:10 INF] Fetching all appointments...
+[2025-05-13 16:14:10 INF] Fetching all patients from the database.
+[2025-05-13 16:14:10 INF] Fetching all doctors from the database.
+[2025-05-13 16:14:10 WRN] No appointments found.
+[2025-05-13 16:14:10 INF] Retrieved 0 appointments.
+[2025-05-13 16:14:10 INF] Appointments retrieved: 0
+[2025-05-13 16:14:10 INF] Fetched 1 patients from the database.
+[2025-05-13 16:14:10 INF] Fetched 1 doctors.
+[2025-05-13 16:14:10 INF] Fetched 1 patients
+[2025-05-13 16:14:10 INF] 1 doctors retrieved.
+[2025-05-13 16:14:10 INF] Patients retrieved: 1
+[2025-05-13 16:14:10 INF] Doctors retrieved: 1
+[2025-05-13 16:14:17 INF] Fetching all patients...
+[2025-05-13 16:14:17 INF] Fetching all patients
+[2025-05-13 16:14:17 INF] Fetching all patients from the database.
+[2025-05-13 16:14:17 INF] Fetched 1 patients from the database.
+[2025-05-13 16:14:17 INF] Fetched 1 patients
+[2025-05-13 16:14:17 INF] Patients retrieved: 1
+[2025-05-13 16:15:20 INF] Creating new patient by user: Doctor1
+[2025-05-13 16:15:20 INF] Creating patient with username: Patient2
+[2025-05-13 16:15:20 INF] Adding a new user with username: Patient2
+[2025-05-13 16:15:20 INF] User with username: Patient2 added successfully. UserId: 8
+[2025-05-13 16:15:20 INF] User created with ID 8
+[2025-05-13 16:15:20 INF] Fetching role by name: Patient
+[2025-05-13 16:15:20 INF] Role found: Patient
+[2025-05-13 16:15:20 INF] Attempting to add role 3 to user 8.
+[2025-05-13 16:15:20 INF] Role 3 successfully added to user 8.
+[2025-05-13 16:15:20 INF] Assigned 'Patient' role to user 8
+[2025-05-13 16:15:20 INF] Adding new patient with name Patient  two.
+[2025-05-13 16:15:20 INF] Patient with ID 2 added successfully.
+[2025-05-13 16:15:20 INF] Patient created with ID 2
+[2025-05-13 16:15:20 INF] Patient created with ID: 2
+[2025-05-13 16:15:20 INF] Fetching all patients...
+[2025-05-13 16:15:20 INF] Fetching all patients
+[2025-05-13 16:15:20 INF] Fetching all patients from the database.
+[2025-05-13 16:15:20 INF] Fetched 2 patients from the database.
+[2025-05-13 16:15:20 INF] Fetched 2 patients
+[2025-05-13 16:15:20 INF] Patients retrieved: 2
+[2025-05-13 16:15:38 INF] Fetching patient by ID: 1
+[2025-05-13 16:15:38 INF] Fetching patient with ID 1
+[2025-05-13 16:15:38 INF] Fetching patient with ID 1 from the database.
+[2025-05-13 16:15:38 INF] Patient with ID 1 found.
+[2025-05-13 16:15:38 INF] Found patient with ID 1
+[2025-05-13 16:15:56 INF] Fetching patient by ID: 2
+[2025-05-13 16:15:56 INF] Fetching patient with ID 2
+[2025-05-13 16:15:56 INF] Fetching patient with ID 2 from the database.
+[2025-05-13 16:15:56 INF] Patient with ID 2 found.
+[2025-05-13 16:15:56 INF] Found patient with ID 2
+[2025-05-13 16:16:10 INF] Updating patient ID: 2 by user Doctor1
+[2025-05-13 16:16:10 INF] Updating patient with ID 2
+[2025-05-13 16:16:10 INF] Fetching patient with ID 2 from the database.
+[2025-05-13 16:16:10 INF] Patient with ID 2 found.
+[2025-05-13 16:16:10 INF] Password updated for user 8
+[2025-05-13 16:16:10 INF] Fetching roles for user 8.
+[2025-05-13 16:16:10 INF] Found 1 roles for user 8.
+[2025-05-13 16:16:10 INF] Fetching role by name: Doctor
+[2025-05-13 16:16:10 INF] Role found: Doctor
+[2025-05-13 16:16:10 INF] Attempting to add role 2 to user 8.
+[2025-05-13 16:16:10 INF] Role 2 successfully added to user 8.
+[2025-05-13 16:16:10 INF] Assigned role 'Doctor' to user 8
+[2025-05-13 16:16:10 INF] Updating patient with ID 2.
+[2025-05-13 16:16:10 INF] Patient's user details updated for patient ID 2.
+[2025-05-13 16:16:10 INF] Patient with ID 2 updated successfully.
+[2025-05-13 16:16:10 INF] Patient with ID 2 updated successfully
+[2025-05-13 16:16:10 INF] Patient ID 2 updated successfully.
+[2025-05-13 16:16:10 INF] Fetching all patients...
+[2025-05-13 16:16:10 INF] Fetching all patients
+[2025-05-13 16:16:10 INF] Fetching all patients from the database.
+[2025-05-13 16:16:10 INF] Fetched 2 patients from the database.
+[2025-05-13 16:16:10 INF] Fetched 2 patients
+[2025-05-13 16:16:10 INF] Patients retrieved: 2
+[2025-05-13 16:16:13 INF] Fetching all doctors...
+[2025-05-13 16:16:13 INF] Fetching all doctors...
+[2025-05-13 16:16:13 INF] Fetching all doctors from the database.
+[2025-05-13 16:16:13 INF] Fetched 1 doctors.
+[2025-05-13 16:16:13 INF] 1 doctors retrieved.
+[2025-05-13 16:16:13 INF] Doctors retrieved: 1
+[2025-05-13 16:16:16 INF] Fetching all doctors...
+[2025-05-13 16:16:16 INF] Fetching all doctors...
+[2025-05-13 16:16:16 INF] Fetching all doctors from the database.
+[2025-05-13 16:16:16 INF] Fetched 1 doctors.
+[2025-05-13 16:16:16 INF] 1 doctors retrieved.
+[2025-05-13 16:16:16 INF] Doctors retrieved: 1
+[2025-05-13 16:17:04 INF] Login attempt for user: Patient2
+[2025-05-13 16:17:04 INF] Login attempt for username: Patient2
+[2025-05-13 16:17:04 INF] Fetching user with username: Patient2
+[2025-05-13 16:17:04 INF] User with username: Patient2 found.
+[2025-05-13 16:17:04 WRN] Login failed. Invalid password for username: Patient2
+[2025-05-13 16:17:04 WRN] Unauthorized login attempt for user: Patient2
+[2025-05-13 16:17:31 INF] Login attempt for user: Patient2
+[2025-05-13 16:17:31 INF] Login attempt for username: Patient2
+[2025-05-13 16:17:31 INF] Fetching user with username: Patient2
+[2025-05-13 16:17:31 INF] User with username: Patient2 found.
+[2025-05-13 16:17:31 WRN] Login failed. Invalid password for username: Patient2
+[2025-05-13 16:17:31 WRN] Unauthorized login attempt for user: Patient2
+[2025-05-13 16:17:46 INF] Login attempt for user: Patient1
+[2025-05-13 16:17:46 INF] Login attempt for username: Patient1
+[2025-05-13 16:17:46 INF] Fetching user with username: Patient1
+[2025-05-13 16:17:46 INF] User with username: Patient1 found.
+[2025-05-13 16:17:46 WRN] Login failed. Invalid password for username: Patient1
+[2025-05-13 16:17:46 WRN] Unauthorized login attempt for user: Patient1
+[2025-05-13 16:17:55 INF] Login attempt for user: Patient1
+[2025-05-13 16:17:55 INF] Login attempt for username: Patient1
+[2025-05-13 16:17:55 INF] Fetching user with username: Patient1
+[2025-05-13 16:17:55 INF] User with username: Patient1 found.
+[2025-05-13 16:17:55 INF] User Patient1 successfully authenticated.
+[2025-05-13 16:17:55 INF] Fetching roles for user 7.
+[2025-05-13 16:17:55 INF] Found 1 roles for user 7.
+[2025-05-13 16:17:55 INF] Token created successfully for user Patient1. Expires at "2025-05-13T11:17:55.2853503Z"
+[2025-05-13 16:17:55 INF] Login successful for user: Patient1
+[2025-05-13 16:17:55 INF] Fetching all patients...
+[2025-05-13 16:17:55 INF] Fetching all patients
+[2025-05-13 16:17:55 INF] Fetching all patients from the database.
+[2025-05-13 16:17:55 INF] Fetched 2 patients from the database.
+[2025-05-13 16:17:55 INF] Fetched 2 patients
+[2025-05-13 16:17:55 INF] Patients retrieved: 2
+[2025-05-13 16:18:42 INF] Login attempt for user: Admin1
+[2025-05-13 16:18:42 INF] Login attempt for username: Admin1
+[2025-05-13 16:18:42 INF] Fetching user with username: Admin1
+[2025-05-13 16:18:42 INF] User with username: Admin1 found.
+[2025-05-13 16:18:42 INF] User Admin1 successfully authenticated.
+[2025-05-13 16:18:42 INF] Fetching roles for user 1.
+[2025-05-13 16:18:42 INF] Found 1 roles for user 1.
+[2025-05-13 16:18:42 INF] Token created successfully for user Admin1. Expires at "2025-05-13T11:18:42.9324699Z"
+[2025-05-13 16:18:42 INF] Login successful for user: Admin1
+[2025-05-13 16:18:42 INF] Fetching all patients...
+[2025-05-13 16:18:42 INF] Fetching all doctors...
+[2025-05-13 16:18:42 INF] Fetching all appointments...
+[2025-05-13 16:18:42 INF] Fetching all patients
+[2025-05-13 16:18:42 INF] Fetching all doctors...
+[2025-05-13 16:18:42 INF] Retrieving all appointments from repository...
+[2025-05-13 16:18:42 INF] Fetching all patients from the database.
+[2025-05-13 16:18:42 INF] Fetching all doctors from the database.
+[2025-05-13 16:18:42 INF] Fetching all appointments...
+[2025-05-13 16:18:42 INF] Fetched 2 patients from the database.
+[2025-05-13 16:18:42 INF] Fetched 2 patients
+[2025-05-13 16:18:42 INF] Patients retrieved: 2
+[2025-05-13 16:18:42 WRN] No appointments found.
+[2025-05-13 16:18:42 INF] Retrieved 0 appointments.
+[2025-05-13 16:18:42 INF] Appointments retrieved: 0
+[2025-05-13 16:18:42 INF] Fetched 1 doctors.
+[2025-05-13 16:18:42 INF] 1 doctors retrieved.
+[2025-05-13 16:18:42 INF] Doctors retrieved: 1
+[2025-05-13 16:18:47 INF] Fetching all patients...
+[2025-05-13 16:18:47 INF] Fetching all patients
+[2025-05-13 16:18:47 INF] Fetching all patients from the database.
+[2025-05-13 16:18:47 INF] Fetched 2 patients from the database.
+[2025-05-13 16:18:47 INF] Fetched 2 patients
+[2025-05-13 16:18:47 INF] Patients retrieved: 2
+[2025-05-13 16:18:49 INF] Fetching patient by ID: 2
+[2025-05-13 16:18:49 INF] Fetching patient with ID 2
+[2025-05-13 16:18:49 INF] Fetching patient with ID 2 from the database.
+[2025-05-13 16:18:49 INF] Patient with ID 2 found.
+[2025-05-13 16:18:49 INF] Found patient with ID 2
+[2025-05-13 16:19:54 INF] Updating patient ID: 2 by user Admin1
+[2025-05-13 16:19:54 INF] Updating patient with ID 2
+[2025-05-13 16:19:54 INF] Fetching patient with ID 2 from the database.
+[2025-05-13 16:19:54 INF] Patient with ID 2 found.
+[2025-05-13 16:19:54 INF] Password updated for user 8
+[2025-05-13 16:19:54 INF] Fetching roles for user 8.
+[2025-05-13 16:19:54 INF] Found 2 roles for user 8.
+[2025-05-13 16:19:54 INF] Updating patient with ID 2.
+[2025-05-13 16:19:54 INF] Patient's user details updated for patient ID 2.
+[2025-05-13 16:19:54 INF] Patient with ID 2 updated successfully.
+[2025-05-13 16:19:54 INF] Patient with ID 2 updated successfully
+[2025-05-13 16:19:54 INF] Patient ID 2 updated successfully.
+[2025-05-13 16:19:54 INF] Fetching all patients...
+[2025-05-13 16:19:54 INF] Fetching all patients
+[2025-05-13 16:19:54 INF] Fetching all patients from the database.
+[2025-05-13 16:19:54 INF] Fetched 2 patients from the database.
+[2025-05-13 16:19:54 INF] Fetched 2 patients
+[2025-05-13 16:19:54 INF] Patients retrieved: 2
+[2025-05-13 16:20:31 INF] Login attempt for user: Patient2
+[2025-05-13 16:20:31 INF] Login attempt for username: Patient2
+[2025-05-13 16:20:31 INF] Fetching user with username: Patient2
+[2025-05-13 16:20:31 INF] User with username: Patient2 found.
+[2025-05-13 16:20:31 INF] User Patient2 successfully authenticated.
+[2025-05-13 16:20:31 INF] Fetching roles for user 8.
+[2025-05-13 16:20:32 INF] Found 2 roles for user 8.
+[2025-05-13 16:20:32 INF] Token created successfully for user Patient2. Expires at "2025-05-13T11:20:32.0016757Z"
+[2025-05-13 16:20:32 INF] Login successful for user: Patient2
+[2025-05-13 16:20:35 INF] Fetching all doctors...
+[2025-05-13 16:20:35 INF] Fetching all doctors...
+[2025-05-13 16:20:35 INF] Fetching all doctors from the database.
+[2025-05-13 16:20:35 INF] Fetched 1 doctors.
+[2025-05-13 16:20:35 INF] 1 doctors retrieved.
+[2025-05-13 16:20:35 INF] Doctors retrieved: 1
+[2025-05-13 16:27:13 INF] Login attempt for user: Doctor1
+[2025-05-13 16:27:13 INF] Login attempt for username: Doctor1
+[2025-05-13 16:27:13 INF] Fetching user with username: Doctor1
+[2025-05-13 16:27:13 INF] User with username: Doctor1 found.
+[2025-05-13 16:27:13 INF] User Doctor1 successfully authenticated.
+[2025-05-13 16:27:13 INF] Fetching roles for user 3.
+[2025-05-13 16:27:13 INF] Found 2 roles for user 3.
+[2025-05-13 16:27:13 INF] Token created successfully for user Doctor1. Expires at "2025-05-13T11:27:13.9196289Z"
+[2025-05-13 16:27:13 INF] Login successful for user: Doctor1
+[2025-05-13 16:27:17 INF] Fetching all doctors...
+[2025-05-13 16:27:17 INF] Fetching all appointments...
+[2025-05-13 16:27:17 INF] Fetching all patients...
+[2025-05-13 16:27:17 INF] Fetching all doctors...
+[2025-05-13 16:27:17 INF] Retrieving all appointments from repository...
+[2025-05-13 16:27:17 INF] Fetching all patients
+[2025-05-13 16:27:17 INF] Fetching all doctors from the database.
+[2025-05-13 16:27:17 INF] Fetching all appointments...
+[2025-05-13 16:27:17 INF] Fetching all patients from the database.
+[2025-05-13 16:27:17 INF] Fetched 1 doctors.
+[2025-05-13 16:27:17 INF] 1 doctors retrieved.
+[2025-05-13 16:27:17 INF] Doctors retrieved: 1
+[2025-05-13 16:27:17 WRN] No appointments found.
+[2025-05-13 16:27:17 INF] Retrieved 0 appointments.
+[2025-05-13 16:27:17 INF] Appointments retrieved: 0
+[2025-05-13 16:27:17 INF] Fetched 2 patients from the database.
+[2025-05-13 16:27:17 INF] Fetched 2 patients
+[2025-05-13 16:27:17 INF] Patients retrieved: 2
+[2025-05-13 16:27:20 INF] Fetching all doctors...
+[2025-05-13 16:27:20 INF] Fetching all doctors...
+[2025-05-13 16:27:20 INF] Fetching all doctors from the database.
+[2025-05-13 16:27:20 INF] Fetched 1 doctors.
+[2025-05-13 16:27:20 INF] 1 doctors retrieved.
+[2025-05-13 16:27:20 INF] Doctors retrieved: 1
+[2025-05-13 16:28:23 INF] Creating doctor by user: Doctor1
+[2025-05-13 16:28:23 INF] Creating a new doctor with username 'Doctor2'
+[2025-05-13 16:28:23 INF] Checking if email Doctor2@gmail.com exists in the system.
+[2025-05-13 16:28:23 INF] Email Doctor2@gmail.com exists: false
+[2025-05-13 16:28:23 INF] Checking if username exists: Doctor2
+[2025-05-13 16:28:23 INF] Username Doctor2 does not exist.
+[2025-05-13 16:28:23 INF] Adding a new user with username: Doctor2
+[2025-05-13 16:28:23 INF] User with username: Doctor2 added successfully. UserId: 9
+[2025-05-13 16:28:23 INF] User with ID 9 created.
+[2025-05-13 16:28:23 INF] Fetching role by name: Doctor
+[2025-05-13 16:28:23 INF] Role found: Doctor
+[2025-05-13 16:28:23 INF] Attempting to add role 2 to user 9.
+[2025-05-13 16:28:23 INF] Role 2 successfully added to user 9.
+[2025-05-13 16:28:23 INF] Assigned 'Doctor' role to user 9.
+[2025-05-13 16:28:23 INF] Fetching role by name: Admin
+[2025-05-13 16:28:23 INF] Role found: Admin
+[2025-05-13 16:28:23 INF] Checking if user 9 has role 1.
+[2025-05-13 16:28:23 INF] User 9 does not have role 1.
+[2025-05-13 16:28:23 INF] Attempting to add role 1 to user 9.
+[2025-05-13 16:28:23 INF] Role 1 successfully added to user 9.
+[2025-05-13 16:28:23 INF] Assigned role 'Admin' to user 9.
+[2025-05-13 16:28:23 INF] Adding new doctor: Doctor two
+[2025-05-13 16:28:23 INF] Doctor with ID 3 added successfully.
+[2025-05-13 16:28:23 INF] Doctor with ID 3 created successfully.
+[2025-05-13 16:28:23 INF] Doctor created with ID: 3
+[2025-05-13 16:28:23 INF] Fetching all doctors...
+[2025-05-13 16:28:23 INF] Fetching all doctors...
+[2025-05-13 16:28:23 INF] Fetching all doctors from the database.
+[2025-05-13 16:28:23 INF] Fetched 2 doctors.
+[2025-05-13 16:28:23 INF] 2 doctors retrieved.
+[2025-05-13 16:28:23 INF] Doctors retrieved: 2
+[2025-05-13 16:29:06 INF] Fetching doctor by ID: 3
+[2025-05-13 16:29:06 INF] Fetching doctor with ID 3...
+[2025-05-13 16:29:06 INF] Fetching doctor with ID: 3
+[2025-05-13 16:29:06 INF] Doctor with ID 3 found.
+[2025-05-13 16:33:45 INF] Fetching all doctors...
+[2025-05-13 16:33:45 INF] Fetching all doctors...
+[2025-05-13 16:33:45 INF] Fetching all doctors from the database.
+[2025-05-13 16:33:45 INF] Fetched 2 doctors.
+[2025-05-13 16:33:45 INF] 2 doctors retrieved.
+[2025-05-13 16:33:45 INF] Doctors retrieved: 2
+[2025-05-13 17:14:26 INF] Login attempt for user: Admin1
+[2025-05-13 17:14:26 INF] Login attempt for username: Admin1
+[2025-05-13 17:14:26 INF] Fetching user with username: Admin1
+[2025-05-13 17:14:26 INF] User with username: Admin1 found.
+[2025-05-13 17:14:26 INF] User Admin1 successfully authenticated.
+[2025-05-13 17:14:26 INF] Fetching roles for user 1.
+[2025-05-13 17:14:26 INF] Found 1 roles for user 1.
+[2025-05-13 17:14:26 INF] Token created successfully for user Admin1. Expires at "2025-05-13T12:14:26.3277235Z"
+[2025-05-13 17:14:26 INF] Login successful for user: Admin1
+[2025-05-13 17:14:26 INF] Fetching all patients...
+[2025-05-13 17:14:26 INF] Fetching all doctors...
+[2025-05-13 17:14:26 INF] Fetching all patients
+[2025-05-13 17:14:26 INF] Fetching all doctors...
+[2025-05-13 17:14:26 INF] Fetching all patients from the database.
+[2025-05-13 17:14:26 INF] Fetching all doctors from the database.
+[2025-05-13 17:14:26 INF] Fetching all appointments...
+[2025-05-13 17:14:26 INF] Retrieving all appointments from repository...
+[2025-05-13 17:14:26 INF] Fetching all appointments...
+[2025-05-13 17:14:26 INF] Fetched 2 patients from the database.
+[2025-05-13 17:14:26 INF] Fetched 2 patients
+[2025-05-13 17:14:26 INF] Patients retrieved: 2
+[2025-05-13 17:14:26 WRN] No appointments found.
+[2025-05-13 17:14:26 INF] Retrieved 0 appointments.
+[2025-05-13 17:14:26 INF] Appointments retrieved: 0
+[2025-05-13 17:14:26 INF] Fetched 2 doctors.
+[2025-05-13 17:14:26 INF] 2 doctors retrieved.
+[2025-05-13 17:14:26 INF] Doctors retrieved: 2
+[2025-05-13 17:18:07 INF] Fetching all doctors...
+[2025-05-13 17:18:07 INF] Fetching all doctors...
+[2025-05-13 17:18:07 INF] Fetching all doctors from the database.
+[2025-05-13 17:18:07 INF] Fetched 2 doctors.
+[2025-05-13 17:18:07 INF] 2 doctors retrieved.
+[2025-05-13 17:18:07 INF] Doctors retrieved: 2
+[2025-05-13 17:18:09 INF] Fetching all doctors...
+[2025-05-13 17:18:09 INF] Fetching all doctors...
+[2025-05-13 17:18:09 INF] Fetching all doctors from the database.
+[2025-05-13 17:18:09 INF] Fetched 2 doctors.
+[2025-05-13 17:18:09 INF] 2 doctors retrieved.
+[2025-05-13 17:18:09 INF] Doctors retrieved: 2
+[2025-05-13 17:21:34 INF] Fetching all doctors...
+[2025-05-13 17:21:34 INF] Fetching all patients...
+[2025-05-13 17:21:34 INF] Fetching all appointments...
+[2025-05-13 17:21:34 INF] Fetching all doctors...
+[2025-05-13 17:21:34 INF] Fetching all patients
+[2025-05-13 17:21:34 INF] Retrieving all appointments from repository...
+[2025-05-13 17:21:34 INF] Fetching all doctors from the database.
+[2025-05-13 17:21:34 INF] Fetching all patients from the database.
+[2025-05-13 17:21:34 INF] Fetching all appointments...
+[2025-05-13 17:21:34 INF] Fetched 2 doctors.
+[2025-05-13 17:21:34 INF] 2 doctors retrieved.
+[2025-05-13 17:21:34 INF] Doctors retrieved: 2
+[2025-05-13 17:21:34 WRN] No appointments found.
+[2025-05-13 17:21:34 INF] Retrieved 0 appointments.
+[2025-05-13 17:21:34 INF] Fetched 2 patients from the database.
+[2025-05-13 17:21:34 INF] Appointments retrieved: 0
+[2025-05-13 17:21:34 INF] Fetched 2 patients
+[2025-05-13 17:21:34 INF] Patients retrieved: 2
+[2025-05-13 17:21:35 INF] Fetching all patients...
+[2025-05-13 17:21:35 INF] Fetching all doctors...
+[2025-05-13 17:21:35 INF] Fetching all appointments...
+[2025-05-13 17:21:35 INF] Fetching all patients
+[2025-05-13 17:21:35 INF] Fetching all doctors...
+[2025-05-13 17:21:35 INF] Retrieving all appointments from repository...
+[2025-05-13 17:21:35 INF] Fetching all patients from the database.
+[2025-05-13 17:21:35 INF] Fetching all doctors from the database.
+[2025-05-13 17:21:35 INF] Fetching all appointments...
+[2025-05-13 17:21:35 INF] Fetched 2 patients from the database.
+[2025-05-13 17:21:35 INF] Fetched 2 doctors.
+[2025-05-13 17:21:35 INF] Fetched 2 patients
+[2025-05-13 17:21:35 WRN] No appointments found.
+[2025-05-13 17:21:35 INF] 2 doctors retrieved.
+[2025-05-13 17:21:35 INF] Patients retrieved: 2
+[2025-05-13 17:21:35 INF] Retrieved 0 appointments.
+[2025-05-13 17:21:35 INF] Doctors retrieved: 2
+[2025-05-13 17:21:35 INF] Appointments retrieved: 0
+[2025-05-13 17:21:56 INF] Fetching all patients...
+[2025-05-13 17:21:56 INF] Fetching all appointments...
+[2025-05-13 17:21:56 INF] Fetching all patients
+[2025-05-13 17:21:56 INF] Fetching all doctors...
+[2025-05-13 17:21:56 INF] Retrieving all appointments from repository...
+[2025-05-13 17:21:56 INF] Fetching all patients from the database.
+[2025-05-13 17:21:56 INF] Fetching all doctors...
+[2025-05-13 17:21:56 INF] Fetching all appointments...
+[2025-05-13 17:21:56 INF] Fetching all doctors from the database.
+[2025-05-13 17:21:56 INF] Fetched 2 patients from the database.
+[2025-05-13 17:21:56 WRN] No appointments found.
+[2025-05-13 17:21:56 INF] Fetched 2 patients
+[2025-05-13 17:21:56 INF] Fetched 2 doctors.
+[2025-05-13 17:21:56 INF] Retrieved 0 appointments.
+[2025-05-13 17:21:56 INF] Patients retrieved: 2
+[2025-05-13 17:21:56 INF] 2 doctors retrieved.
+[2025-05-13 17:21:56 INF] Appointments retrieved: 0
+[2025-05-13 17:21:56 INF] Doctors retrieved: 2
+[2025-05-13 17:22:06 INF] Fetching all doctors...
+[2025-05-13 17:22:06 INF] Fetching all appointments...
+[2025-05-13 17:22:06 INF] Fetching all patients...
+[2025-05-13 17:22:06 INF] Fetching all doctors...
+[2025-05-13 17:22:06 INF] Retrieving all appointments from repository...
+[2025-05-13 17:22:06 INF] Fetching all patients
+[2025-05-13 17:22:06 INF] Fetching all doctors from the database.
+[2025-05-13 17:22:06 INF] Fetching all appointments...
+[2025-05-13 17:22:06 INF] Fetching all patients from the database.
+[2025-05-13 17:22:06 INF] Fetched 2 doctors.
+[2025-05-13 17:22:06 INF] 2 doctors retrieved.
+[2025-05-13 17:22:06 WRN] No appointments found.
+[2025-05-13 17:22:06 INF] Doctors retrieved: 2
+[2025-05-13 17:22:06 INF] Retrieved 0 appointments.
+[2025-05-13 17:22:06 INF] Fetched 2 patients from the database.
+[2025-05-13 17:22:06 INF] Appointments retrieved: 0
+[2025-05-13 17:22:06 INF] Fetched 2 patients
+[2025-05-13 17:22:06 INF] Patients retrieved: 2
+[2025-05-13 17:22:37 INF] Creating a new admin user...
+[2025-05-13 17:22:37 INF] Starting admin creation process for username: Admin2
+[2025-05-13 17:22:37 INF] Checking if username exists: Admin2
+[2025-05-13 17:22:37 INF] Username Admin2 does not exist.
+[2025-05-13 17:22:37 INF] Adding a new user with username: Admin2
+[2025-05-13 17:22:37 INF] User with username: Admin2 added successfully. UserId: 10
+[2025-05-13 17:22:37 INF] New admin user created with ID: 10
+[2025-05-13 17:22:37 INF] Fetching role by name: Admin
+[2025-05-13 17:22:37 INF] Role found: Admin
+[2025-05-13 17:22:37 INF] Checking if user 10 has role 1.
+[2025-05-13 17:22:37 INF] User 10 does not have role 1.
+[2025-05-13 17:22:37 INF] Attempting to add role 1 to user 10.
+[2025-05-13 17:22:37 INF] Role 1 successfully added to user 10.
+[2025-05-13 17:22:37 INF] Assigned role 'Admin' to user ID: 10
+[2025-05-13 17:22:37 INF] Admin creation process completed for user ID: 10
+[2025-05-13 17:22:37 INF] Admin user created successfully.
+[2025-05-13 17:24:14 INF] Fetching all doctors...
+[2025-05-13 17:24:14 INF] Fetching all doctors...
+[2025-05-13 17:24:14 INF] Fetching all doctors from the database.
+[2025-05-13 17:24:14 INF] Fetched 2 doctors.
+[2025-05-13 17:24:14 INF] 2 doctors retrieved.
+[2025-05-13 17:24:14 INF] Doctors retrieved: 2
+[2025-05-13 17:24:19 INF] Fetching all appointments...
+[2025-05-13 17:24:19 INF] Retrieving all appointments from repository...
+[2025-05-13 17:24:19 INF] Fetching all appointments...
+[2025-05-13 17:24:19 WRN] No appointments found.
+[2025-05-13 17:24:19 INF] Retrieved 0 appointments.
+[2025-05-13 17:24:19 INF] Appointments retrieved: 0
+[2025-05-13 17:24:20 INF] Fetching all doctors...
+[2025-05-13 17:24:20 INF] Fetching all patients...
+[2025-05-13 17:24:20 INF] Fetching all doctors...
+[2025-05-13 17:24:20 INF] Fetching all patients
+[2025-05-13 17:24:20 INF] Fetching all doctors from the database.
+[2025-05-13 17:24:20 INF] Fetching all patients from the database.
+[2025-05-13 17:24:20 INF] Fetched 2 doctors.
+[2025-05-13 17:24:20 INF] Fetched 2 patients from the database.
+[2025-05-13 17:24:20 INF] 2 doctors retrieved.
+[2025-05-13 17:24:20 INF] Fetched 2 patients
+[2025-05-13 17:24:20 INF] Doctors retrieved: 2
+[2025-05-13 17:24:20 INF] Patients retrieved: 2
+[2025-05-13 17:24:35 INF] Creating appointment by: Admin1
+[2025-05-13 17:24:35 INF] Attempting to create appointment for PatientId: 1, DoctorId: 3
+[2025-05-13 17:24:35 INF] Fetching patient with ID 1 from the database.
+[2025-05-13 17:24:35 INF] Patient with ID 1 found.
+[2025-05-13 17:24:35 INF] Fetching doctor with ID: 3
+[2025-05-13 17:24:35 INF] Adding new appointment...
+[2025-05-13 17:24:35 INF] Appointment with ID 1 added successfully.
+[2025-05-13 17:24:35 INF] Appointment created successfully with ID: 1
+[2025-05-13 17:24:35 INF] Appointment created successfully with ID: 1
+[2025-05-13 17:24:35 INF] Fetching all appointments...
+[2025-05-13 17:24:35 INF] Retrieving all appointments from repository...
+[2025-05-13 17:24:35 INF] Fetching all appointments...
+[2025-05-13 17:24:35 INF] Successfully retrieved 1 appointments.
+[2025-05-13 17:24:35 INF] Retrieved 1 appointments.
+[2025-05-13 17:24:35 INF] Appointments retrieved: 1
+[2025-05-13 17:34:13 INF] Fetching all appointments...
+[2025-05-13 17:34:13 INF] Retrieving all appointments from repository...
+[2025-05-13 17:34:13 INF] Fetching all appointments...
+[2025-05-13 17:34:13 INF] Successfully retrieved 1 appointments.
+[2025-05-13 17:34:13 INF] Retrieved 1 appointments.
+[2025-05-13 17:34:13 INF] Appointments retrieved: 1
+[2025-05-13 17:35:32 INF] Fetching all doctors...
+[2025-05-13 17:35:32 INF] Fetching all doctors...
+[2025-05-13 17:35:32 INF] Fetching all doctors from the database.
+[2025-05-13 17:35:32 INF] Fetched 2 doctors.
+[2025-05-13 17:35:32 INF] 2 doctors retrieved.
+[2025-05-13 17:35:32 INF] Doctors retrieved: 2
+[2025-05-13 17:36:42 INF] Fetching all patients...
+[2025-05-13 17:36:42 INF] Fetching all patients
+[2025-05-13 17:36:42 INF] Fetching all patients from the database.
+[2025-05-13 17:36:42 INF] Fetched 2 patients from the database.
+[2025-05-13 17:36:42 INF] Fetched 2 patients
+[2025-05-13 17:36:42 INF] Patients retrieved: 2
+[2025-05-13 17:36:46 INF] Deleting patient ID: 2
+[2025-05-13 17:36:46 INF] Deleting patient with ID 2
+[2025-05-13 17:36:46 INF] Fetching patient with ID 2 from the database.
+[2025-05-13 17:36:46 INF] Patient with ID 2 found.
+[2025-05-13 17:36:46 INF] Deleting user with ID: 8
+[2025-05-13 17:36:46 INF] User with ID: 8 deleted successfully.
+[2025-05-13 17:36:46 INF] Deleted user with ID 8
+[2025-05-13 17:36:46 INF] Deleting patient with ID 2.
+[2025-05-13 17:36:46 WRN] Patient with ID 2 not found for deletion.
+[2025-05-13 17:36:46 INF] Patient with ID 2 deleted successfully
+[2025-05-13 17:36:46 INF] Patient ID 2 deleted successfully.
+[2025-05-13 17:36:46 INF] Fetching all patients...
+[2025-05-13 17:36:46 INF] Fetching all patients
+[2025-05-13 17:36:46 INF] Fetching all patients from the database.
+[2025-05-13 17:36:46 INF] Fetched 1 patients from the database.
+[2025-05-13 17:36:46 INF] Fetched 1 patients
+[2025-05-13 17:36:46 INF] Patients retrieved: 1
+[2025-05-13 17:39:09 INF] Creating new patient by user: Admin1
+[2025-05-13 17:39:09 INF] Creating patient with username: Patient2
+[2025-05-13 17:39:09 INF] Adding a new user with username: Patient2
+[2025-05-13 17:39:09 INF] User with username: Patient2 added successfully. UserId: 11
+[2025-05-13 17:39:09 INF] User created with ID 11
+[2025-05-13 17:39:09 INF] Fetching role by name: Patient
+[2025-05-13 17:39:09 INF] Role found: Patient
+[2025-05-13 17:39:09 INF] Attempting to add role 3 to user 11.
+[2025-05-13 17:39:09 INF] Role 3 successfully added to user 11.
+[2025-05-13 17:39:09 INF] Assigned 'Patient' role to user 11
+[2025-05-13 17:39:09 INF] Fetching role by name: Admin
+[2025-05-13 17:39:09 INF] Role found: Admin
+[2025-05-13 17:39:09 INF] Checking if user 11 has role 1.
+[2025-05-13 17:39:09 INF] User 11 does not have role 1.
+[2025-05-13 17:39:09 INF] Attempting to add role 1 to user 11.
+[2025-05-13 17:39:09 INF] Role 1 successfully added to user 11.
+[2025-05-13 17:39:09 INF] Assigned additional role 'Admin' to user 11
+[2025-05-13 17:39:09 INF] Adding new patient with name Patient two.
+[2025-05-13 17:39:09 INF] Patient with ID 3 added successfully.
+[2025-05-13 17:39:09 INF] Patient created with ID 3
+[2025-05-13 17:39:09 INF] Patient created with ID: 3
+[2025-05-13 17:39:09 INF] Fetching all patients...
+[2025-05-13 17:39:09 INF] Fetching all patients
+[2025-05-13 17:39:09 INF] Fetching all patients from the database.
+[2025-05-13 17:39:09 INF] Fetched 2 patients from the database.
+[2025-05-13 17:39:09 INF] Fetched 2 patients
+[2025-05-13 17:39:09 INF] Patients retrieved: 2
+[2025-05-13 17:39:29 INF] Login attempt for user: Patient1
+[2025-05-13 17:39:29 INF] Login attempt for username: Patient1
+[2025-05-13 17:39:29 INF] Fetching user with username: Patient1
+[2025-05-13 17:39:29 INF] User with username: Patient1 found.
+[2025-05-13 17:39:30 INF] User Patient1 successfully authenticated.
+[2025-05-13 17:39:30 INF] Fetching roles for user 7.
+[2025-05-13 17:39:30 INF] Found 1 roles for user 7.
+[2025-05-13 17:39:30 INF] Token created successfully for user Patient1. Expires at "2025-05-13T12:39:30.0582738Z"
+[2025-05-13 17:39:30 INF] Login successful for user: Patient1
+[2025-05-13 17:39:30 INF] Fetching all patients...
+[2025-05-13 17:39:30 INF] Fetching all patients
+[2025-05-13 17:39:30 INF] Fetching all patients from the database.
+[2025-05-13 17:39:30 INF] Fetched 2 patients from the database.
+[2025-05-13 17:39:30 INF] Fetched 2 patients
+[2025-05-13 17:39:30 INF] Patients retrieved: 2
+[2025-05-13 17:39:47 INF] Login attempt for user: Patient2
+[2025-05-13 17:39:47 INF] Login attempt for username: Patient2
+[2025-05-13 17:39:47 INF] Fetching user with username: Patient2
+[2025-05-13 17:39:47 INF] User with username: Patient2 found.
+[2025-05-13 17:39:47 INF] User Patient2 successfully authenticated.
+[2025-05-13 17:39:47 INF] Fetching roles for user 11.
+[2025-05-13 17:39:47 INF] Found 2 roles for user 11.
+[2025-05-13 17:39:47 INF] Token created successfully for user Patient2. Expires at "2025-05-13T12:39:47.7474357Z"
+[2025-05-13 17:39:47 INF] Login successful for user: Patient2
+[2025-05-13 17:40:01 INF] Login attempt for user: Doctor1
+[2025-05-13 17:40:01 INF] Login attempt for username: Doctor1
+[2025-05-13 17:40:01 INF] Fetching user with username: Doctor1
+[2025-05-13 17:40:01 INF] User with username: Doctor1 found.
+[2025-05-13 17:40:02 INF] User Doctor1 successfully authenticated.
+[2025-05-13 17:40:02 INF] Fetching roles for user 3.
+[2025-05-13 17:40:02 INF] Found 2 roles for user 3.
+[2025-05-13 17:40:02 INF] Token created successfully for user Doctor1. Expires at "2025-05-13T12:40:02.0451572Z"
+[2025-05-13 17:40:02 INF] Login successful for user: Doctor1
+[2025-05-13 17:40:38 INF] Login attempt for user: Doctor2
+[2025-05-13 17:40:38 INF] Login attempt for username: Doctor2
+[2025-05-13 17:40:38 INF] Fetching user with username: Doctor2
+[2025-05-13 17:40:38 INF] User with username: Doctor2 found.
+[2025-05-13 17:40:38 INF] User Doctor2 successfully authenticated.
+[2025-05-13 17:40:38 INF] Fetching roles for user 9.
+[2025-05-13 17:40:38 INF] Found 2 roles for user 9.
+[2025-05-13 17:40:38 INF] Token created successfully for user Doctor2. Expires at "2025-05-13T12:40:38.1623836Z"
+[2025-05-13 17:40:38 INF] Login successful for user: Doctor2
+[2025-05-13 17:40:46 INF] Fetching all doctors...
+[2025-05-13 17:40:46 INF] Fetching all doctors...
+[2025-05-13 17:40:46 INF] Fetching all doctors from the database.
+[2025-05-13 17:40:46 INF] Fetched 2 doctors.
+[2025-05-13 17:40:46 INF] 2 doctors retrieved.
+[2025-05-13 17:40:46 INF] Doctors retrieved: 2
+[2025-05-13 17:40:58 INF] Login attempt for user: Admin1
+[2025-05-13 17:40:58 INF] Login attempt for username: Admin1
+[2025-05-13 17:40:58 INF] Fetching user with username: Admin1
+[2025-05-13 17:40:58 INF] User with username: Admin1 found.
+[2025-05-13 17:40:58 INF] User Admin1 successfully authenticated.
+[2025-05-13 17:40:58 INF] Fetching roles for user 1.
+[2025-05-13 17:40:58 INF] Found 1 roles for user 1.
+[2025-05-13 17:40:58 INF] Token created successfully for user Admin1. Expires at "2025-05-13T12:40:58.4583536Z"
+[2025-05-13 17:40:58 INF] Login successful for user: Admin1
+[2025-05-13 17:40:58 INF] Fetching all patients...
+[2025-05-13 17:40:58 INF] Fetching all doctors...
+[2025-05-13 17:40:58 INF] Fetching all appointments...
+[2025-05-13 17:40:58 INF] Fetching all patients
+[2025-05-13 17:40:58 INF] Fetching all doctors...
+[2025-05-13 17:40:58 INF] Retrieving all appointments from repository...
+[2025-05-13 17:40:58 INF] Fetching all patients from the database.
+[2025-05-13 17:40:58 INF] Fetching all doctors from the database.
+[2025-05-13 17:40:58 INF] Fetching all appointments...
+[2025-05-13 17:40:58 INF] Fetched 2 patients from the database.
+[2025-05-13 17:40:58 INF] Fetched 2 patients
+[2025-05-13 17:40:58 INF] Patients retrieved: 2
+[2025-05-13 17:40:58 INF] Successfully retrieved 1 appointments.
+[2025-05-13 17:40:58 INF] Fetched 2 doctors.
+[2025-05-13 17:40:58 INF] Retrieved 1 appointments.
+[2025-05-13 17:40:58 INF] 2 doctors retrieved.
+[2025-05-13 17:40:58 INF] Appointments retrieved: 1
+[2025-05-13 17:40:58 INF] Doctors retrieved: 2
+[2025-05-13 17:41:02 INF] Fetching all doctors...
+[2025-05-13 17:41:02 INF] Fetching all doctors...
+[2025-05-13 17:41:02 INF] Fetching all doctors from the database.
+[2025-05-13 17:41:02 INF] Fetched 2 doctors.
+[2025-05-13 17:41:02 INF] 2 doctors retrieved.
+[2025-05-13 17:41:02 INF] Doctors retrieved: 2
+[2025-05-13 17:42:14 INF] Creating doctor by user: Admin1
+[2025-05-13 17:42:14 INF] Creating a new doctor with username 'Doctor3'
+[2025-05-13 17:42:14 INF] Checking if email Doctor3@gmail.com exists in the system.
+[2025-05-13 17:42:14 INF] Email Doctor3@gmail.com exists: false
+[2025-05-13 17:42:14 INF] Checking if username exists: Doctor3
+[2025-05-13 17:42:14 INF] Username Doctor3 does not exist.
+[2025-05-13 17:42:14 INF] Adding a new user with username: Doctor3
+[2025-05-13 17:42:14 INF] User with username: Doctor3 added successfully. UserId: 12
+[2025-05-13 17:42:14 INF] User with ID 12 created.
+[2025-05-13 17:42:14 INF] Fetching role by name: Doctor
+[2025-05-13 17:42:14 INF] Role found: Doctor
+[2025-05-13 17:42:14 INF] Attempting to add role 2 to user 12.
+[2025-05-13 17:42:14 INF] Role 2 successfully added to user 12.
+[2025-05-13 17:42:14 INF] Assigned 'Doctor' role to user 12.
+[2025-05-13 17:42:14 INF] Adding new doctor: Doctor three
+[2025-05-13 17:42:14 INF] Doctor with ID 4 added successfully.
+[2025-05-13 17:42:14 INF] Doctor with ID 4 created successfully.
+[2025-05-13 17:42:14 INF] Doctor created with ID: 4
+[2025-05-13 17:42:14 INF] Fetching all doctors...
+[2025-05-13 17:42:14 INF] Fetching all doctors...
+[2025-05-13 17:42:14 INF] Fetching all doctors from the database.
+[2025-05-13 17:42:14 INF] Fetched 3 doctors.
+[2025-05-13 17:42:14 INF] 3 doctors retrieved.
+[2025-05-13 17:42:14 INF] Doctors retrieved: 3
+[2025-05-13 17:42:30 INF] Login attempt for user: Doctor3
+[2025-05-13 17:42:30 INF] Login attempt for username: Doctor3
+[2025-05-13 17:42:30 INF] Fetching user with username: Doctor3
+[2025-05-13 17:42:30 INF] User with username: Doctor3 found.
+[2025-05-13 17:42:30 INF] User Doctor3 successfully authenticated.
+[2025-05-13 17:42:30 INF] Fetching roles for user 12.
+[2025-05-13 17:42:30 INF] Found 1 roles for user 12.
+[2025-05-13 17:42:30 INF] Token created successfully for user Doctor3. Expires at "2025-05-13T12:42:30.6074894Z"
+[2025-05-13 17:42:30 INF] Login successful for user: Doctor3
+[2025-05-13 17:43:37 INF] Fetching all doctors...
+[2025-05-13 17:43:37 INF] Fetching all doctors...
+[2025-05-13 17:43:37 INF] Fetching all doctors from the database.
+[2025-05-13 17:43:37 INF] Fetched 3 doctors.
+[2025-05-13 17:43:37 INF] 3 doctors retrieved.
+[2025-05-13 17:43:37 INF] Doctors retrieved: 3
+[2025-05-13 17:44:16 INF] Fetching all doctors...
+[2025-05-13 17:44:16 INF] Fetching all doctors...
+[2025-05-13 17:44:16 INF] Fetching all doctors from the database.
+[2025-05-13 17:44:16 INF] Fetched 3 doctors.
+[2025-05-13 17:44:16 INF] 3 doctors retrieved.
+[2025-05-13 17:44:16 INF] Doctors retrieved: 3
+[2025-05-13 17:44:17 INF] Fetching all doctors...
+[2025-05-13 17:44:17 INF] Fetching all doctors...
+[2025-05-13 17:44:17 INF] Fetching all doctors from the database.
+[2025-05-13 17:44:17 INF] Fetched 3 doctors.
+[2025-05-13 17:44:17 INF] 3 doctors retrieved.
+[2025-05-13 17:44:17 INF] Doctors retrieved: 3
+[2025-05-13 17:44:18 INF] Fetching all appointments...
+[2025-05-13 17:44:18 INF] Retrieving all appointments from repository...
+[2025-05-13 17:44:18 INF] Fetching all appointments...
+[2025-05-13 17:44:18 INF] Successfully retrieved 1 appointments.
+[2025-05-13 17:44:18 INF] Retrieved 1 appointments.
+[2025-05-13 17:44:18 INF] Appointments retrieved: 1
+[2025-05-13 17:50:11 INF] Starting web host
